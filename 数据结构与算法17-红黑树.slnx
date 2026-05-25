@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="数据结构与算法17-红黑树/数据结构与算法17-红黑树.vcxproj" Id="2d5271b6-6362-40bd-bd59-cf14940690d0" />
+</Solution>
