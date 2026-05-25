@@ -16,3 +16,10 @@ Release/
 *.lib
 *.dll
 *.exp
+*.idb
+*.ipdb
+*.iobj
+*.recipe
+*.tlog
+*.lastbuildstate
+*.log
